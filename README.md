@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pinillaCode
-- 🌱 I’m currently learning ... python, java, c, arduino, unity... :3
+- 🌱 I’m currently learning ... python, c, arduino,... :3
 - 📫 How to reach me ... Gmail: pinillacoding@gmail.com
 
 <!---
